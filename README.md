@@ -1,2 +1,3 @@
 # Analysis-of-Learning-Rate-for-Deep-Neural-Networks
-zzzzzzz
+Shishi Zhang sz559
+Henry Ogworonjo hco23 
